@@ -816,3 +816,9 @@ span.title {
    position: absolute;
    margin: 0px -388px;
 }
+
+div#histats_counter {
+    cursor: default;
+    position: absolute;
+    margin: 33px 82% 0px;
+}
