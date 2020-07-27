@@ -811,3 +811,8 @@ span.title {
     font-size: 48px;
     color: black;
 }
+
+.footer-image{
+   position: absolute;
+   margin: 0px -388px;
+}
