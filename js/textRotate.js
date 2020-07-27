@@ -337,3 +337,7 @@ jQuery(document).ready(function ($) {
     $newWord.removeClass('is-hidden').addClass('is-visible');
   }
 });
+
+document.getElementsByTagName('canvas')[2].style = `cursor: default;
+    position: absolute;
+    margin: 35px 440px 0px;`
